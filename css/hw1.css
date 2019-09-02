@@ -19,7 +19,7 @@ h2 {
 }
 
 header {
-	background: #b7c176 url(../images/flywheel.jpg);
+	background: #b7c176 url(http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg);
 	background-size: cover;
 	min-height: 175px;
 	padding-left:3%;
